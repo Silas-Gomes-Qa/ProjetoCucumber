@@ -1,6 +1,6 @@
 #Author: silasleandrogomes@gmail.com
 
-@regressivos @login
+
 Feature: Realizar login no site saucedemo
   Como usuario do site saucedemos
   Quero infomrar os dados de acesso
